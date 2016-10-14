@@ -1,9 +1,14 @@
 # WikiExtractor_To_the_one_text
 
 Simple extension for Python script that extracts and cleans text from a Wikipedia database dump. 
-(https://github.com/attardi/wikiextractor)
+Most of the codes are from [WikiExtrator](https://github.com/attardi/wikiextractor)
 
 ## Usage
+
+Installation
+
+`(sudo) python setup.py install`
+
 `python WikiExtractor.py Wiki_dump.xml -options`
 
 For detailed options, see [WikiExtrator](https://github.com/attardi/wikiextractor)
