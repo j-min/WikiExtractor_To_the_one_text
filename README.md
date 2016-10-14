@@ -3,11 +3,11 @@
 Simple extension for Python script that extracts and cleans text from a Wikipedia database dump. 
 Most of the codes are from [WikiExtrator](https://github.com/attardi/wikiextractor)
 
-## Usage
-
-Installation
+##Installation
 
 `(sudo) python setup.py install`
+
+## Usage
 
 `python WikiExtractor.py Wiki_dump.xml -options`
 
